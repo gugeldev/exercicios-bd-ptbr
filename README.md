@@ -129,3 +129,15 @@ Isso evita problemas de direitos autorais, já que não temos permissão para re
 
 * Tradução e adaptação: **Este repositório**
 * Base original: [free-exercise-db](https://github.com/yuhonas/free-exercise-db)
+
+---
+
+## 📜 Licença
+
+Este projeto está licenciado sob a [**CC0 1.0 Universal**](LICENSE) (dedicação ao domínio público).
+
+Na prática, isso significa que **qualquer pessoa pode copiar, modificar, distribuir e utilizar este dataset**, inclusive em **projetos comerciais ou sem fins lucrativos**, sem pedir permissão e sem necessidade de atribuição.
+
+A escolha da CC0 mantém a continuidade com o projeto original [free-exercise-db](https://github.com/yuhonas/free-exercise-db), que é publicado sob a [Unlicense](https://unlicense.org) — também uma dedicação ao domínio público.
+
+> **Nota:** a licença cobre os arquivos JSON deste repositório (os dados e sua tradução). Ela **não** se aplica às imagens referenciadas no campo `images`, que não estão incluídas aqui e permanecem sob os direitos de seus respectivos autores.
